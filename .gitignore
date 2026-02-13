@@ -1,0 +1,8 @@
+# Ignore the client cache (Sensitive Data)
+iol_clients_cache.json
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore dotenv files if you use them later
+.env

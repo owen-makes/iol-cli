@@ -106,3 +106,7 @@ export IOL_PASSWORD="your_password"
 ## 💦 Disclaimer
 
 Purely informational. No trading endpoints have been added. This is an unofficial tool. Use it at your own risk.
+
+## Credits
+
+Myself. If you want to support me, consider trying my bond database tool https://argen.bond
